@@ -869,7 +869,7 @@ int main(int argc, char **argv)
 
 ## (8a) Todays assignments
 
-1. Fork this repository (michellundell/8a) and update the 7a.cpp with some of your own code that demonstrates the following C++ features:
+1. Fork this repository (michellundell/8a) and update the 8a.cpp with some of your own code that demonstrates the following C++ features:
 
 ```
 C++ class constructor
@@ -893,7 +893,7 @@ C++ Increment Operator
 C++ Decrement Operator
 ```
 
-when the 7a.cpp compiles and demonstrates the above features of C++, make a pull-request for my 8a.cpp file!
+when the 8a.cpp compiles and demonstrates the above features of C++, make a pull-request for my 8a.cpp file!
 
 then you can continue with the ticket system assignment ...
 
