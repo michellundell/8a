@@ -428,8 +428,49 @@ int main(int argc, char **argv)
         return(0);
 }
 ```
+## (8a) Todays assignments
 
-## On request ... 7a examples with comments added
+1. Fork this repository (michellundell/8a) and update the 8a.cpp with some of your own code that demonstrates the following C++ features:
+
+```
+C++ class constructor
+C++ class destructor
+C++ inheritance
+C++ overloading methods
+C++ Reference
+C++ friend
+C++ overloading input output operators << and >>
+C++ Function Templates
+C++ Class Templates
+C++ std::list
+C++ List with custom class, std::list
+C++ Exception handling
+C++ new, delete 
+C++ Initialization Operator
+C++ Assignment Operator
+C++ Function Call Operator
+C++ Subscript Operator
+C++ Increment Operator
+C++ Decrement Operator
+```
+
+when the 8a.cpp compiles and demonstrates the above features of C++, make a pull-request for my 8a.cpp file!
+
+then you can continue with the ticket system assignment ...
+
+2. If you are not yet finished with the ticket program in C (4a) it is time to complete it ...
+
+2. If/when you are finished with the ticket program in C, start making a C++ version of it!
+
+3. If you started on the C++ version of the ticketsystem ...
+
+Maybe some of the features we learnt today could be used in your C++ ticket system.
+(Using the features in a "right place" will collect points!)
+
+Happy coding
+
+
+# On request ... 7a examples with comments added
 1.(7a) C++ class constructor
 2.(7a) C++ class destructor
 3.(7a) C++ inheritance
@@ -866,45 +907,4 @@ int main(int argc, char **argv)
     return 0;
 }
 ```
-
-## (8a) Todays assignments
-
-1. Fork this repository (michellundell/8a) and update the 8a.cpp with some of your own code that demonstrates the following C++ features:
-
-```
-C++ class constructor
-C++ class destructor
-C++ inheritance
-C++ overloading methods
-C++ Reference
-C++ friend
-C++ overloading input output operators << and >>
-C++ Function Templates
-C++ Class Templates
-C++ std::list
-C++ List with custom class, std::list
-C++ Exception handling
-C++ new, delete 
-C++ Initialization Operator
-C++ Assignment Operator
-C++ Function Call Operator
-C++ Subscript Operator
-C++ Increment Operator
-C++ Decrement Operator
-```
-
-when the 8a.cpp compiles and demonstrates the above features of C++, make a pull-request for my 8a.cpp file!
-
-then you can continue with the ticket system assignment ...
-
-2. If you are not yet finished with the ticket program in C (4a) it is time to complete it ...
-
-2. If/when you are finished with the ticket program in C, start making a C++ version of it!
-
-3. If you started on the C++ version of the ticketsystem ...
-
-Maybe some of the features we learnt today could be used in your C++ ticket system.
-(Using the features in a "right place" will collect points!)
-
-Happy coding
 
