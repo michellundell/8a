@@ -430,20 +430,20 @@ int main(int argc, char **argv)
 ```
 
 ## On request ... 7a examples with comments added
-1.(6a) C++ class constructor
-2.(6a) C++ class destructor
-3.(6a) C++ inheritance
-4.(6a) C++ overloading methods
-5.(6a) C++ Reference
-6.(6a) C++ friend
-7.(6a) C++ overloading input output operators << and >>
-8.(6a) C++ Function Templates
-9.(6a) C++ Class Templates
-10.(6a) C++ std::list
-11.(6a) C++ List with custom class, std::list
+1.(7a) C++ class constructor
+2.(7a) C++ class destructor
+3.(7a) C++ inheritance
+4.(7a) C++ overloading methods
+5.(7a) C++ Reference
+6.(7a) C++ friend
+7.(7a) C++ overloading input output operators << and >>
+8.(7a) C++ Function Templates
+9.(7a) C++ Class Templates
+10.(7a) C++ std::list
+11.(7a) C++ List with custom class, std::list
 
 
-## 1.(6a) C++ class constructor
+## 1.(7a) C++ class constructor
 A c++ class constructor is public and returns nothing!
 
 ```
@@ -462,7 +462,7 @@ int main(int argc, char **argv)
 }
 ```
 
-## 2.(6a) C++ class destructor
+## 2.(7a) C++ class destructor
 
 A class destructor is defined by having a ~ infront of it and return nothing.
 ```
@@ -482,7 +482,7 @@ int main(int argc, char **argv)
 }
 ```
 
-## 3.(6a) C++ inheritance
+## 3.(7a) C++ inheritance
 
 Classes can inherit from other classes.
 
@@ -511,7 +511,7 @@ int main(int argc,char **argv)
 }
 ```
 
-## 4.(6a) C++ overloading methods
+## 4.(7a) C++ overloading methods
 
 ```
 #include <iostream>
@@ -549,7 +549,7 @@ int main(int argc,char **argv)
 }
 ```
 
-## 5.(6a) C++ Reference
+## 5.(7a) C++ Reference
 
 A reference is a alias for another variable.
 
@@ -598,7 +598,7 @@ int main(int argc, char **argv)
 }
 ```
 
-## 6.(6a) C++ friend
+## 6.(7a) C++ friend
 
 ```
 #include <iostream>
@@ -635,7 +635,7 @@ int main(int argc,char **argv)
 }
 ```
 
-## 7.(6a) C++ overloading input output operators << and >>
+## 7.(7a) C++ overloading input output operators << and >>
 
 ```
 #include <iostream>
@@ -672,7 +672,7 @@ int main(int argc, char **argv)
 }
 ```
 
-## 8.(6a) C++ Function Templates
+## 8.(7a) C++ Function Templates
 
 ```
 #include <iostream>
@@ -697,7 +697,7 @@ int main(int argc,char **argv)
 When the compiler sees an instantiation of the function template, for example: the call max(10, 15) in function main, the compiler generates a function max(int, int). Similarly the compiler generates definitions for max(char, char) and max(float, float) in this case.
 
 
-## 9.(6a) C++ Class Templates
+## 9.(7a) C++ Class Templates
 Similar to template functions, one can also make a template class
 
 ```
@@ -738,7 +738,7 @@ int main(int argc, char **argv)
 }
 ```
 
-## 10.(6a) C++ std::list
+## 10.(7a) C++ std::list
 
 Having objects in a list is a good way to not forget them ;-)
 
@@ -793,7 +793,7 @@ int main(int argc, char **argv)
 
 ```
 
-## 11.(6a) C++ List with custom class, std::list
+## 11.(7a) C++ List with custom class, std::list
 
 Having objects in a list is a good way to not forget them ;-)
 
@@ -867,9 +867,9 @@ int main(int argc, char **argv)
 }
 ```
 
-## (7a) Todays assignments
+## (8a) Todays assignments
 
-1. Fork this repository (michellundell/7a) and update the 7a.cpp with some of your own code that demonstrates the following C++ features:
+1. Fork this repository (michellundell/8a) and update the 7a.cpp with some of your own code that demonstrates the following C++ features:
 
 ```
 C++ class constructor
@@ -893,7 +893,7 @@ C++ Increment Operator
 C++ Decrement Operator
 ```
 
-when the 7a.cpp compiles and demonstrates the above features of C++, make a pull-request for my 7a.cpp file!
+when the 7a.cpp compiles and demonstrates the above features of C++, make a pull-request for my 8a.cpp file!
 
 then you can continue with the ticket system assignment ...
 
