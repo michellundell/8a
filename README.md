@@ -2,6 +2,11 @@
 
 ## Agenda
 
+# Understanding examples
+If you find the examples and my explanation to hard to understand, 
+raise your hand or say something so I can explain it in an alternative way.
+
+
 1. C++ Exception handling
 2. C++ new, delete 
 3. C++ Initialization Operator
