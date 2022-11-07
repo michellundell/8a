@@ -1,11 +1,11 @@
 # michellundell/8a C++
 
-## Agenda
-
-# Understanding examples
+## Understanding examples
 If you find the examples and my explanation to hard to understand, 
 raise your hand or say something so I can explain it in an alternative way.
 
+
+## Agenda
 
 1. C++ Exception handling
 2. C++ new, delete 
